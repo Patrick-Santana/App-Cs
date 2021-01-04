@@ -1,0 +1,16 @@
+C:\Users\zonaa\Downloads\star\bin\Debug\net5.0\star.exe
+C:\Users\zonaa\Downloads\star\bin\Debug\net5.0\star.deps.json
+C:\Users\zonaa\Downloads\star\bin\Debug\net5.0\star.runtimeconfig.json
+C:\Users\zonaa\Downloads\star\bin\Debug\net5.0\star.runtimeconfig.dev.json
+C:\Users\zonaa\Downloads\star\bin\Debug\net5.0\star.dll
+C:\Users\zonaa\Downloads\star\bin\Debug\net5.0\ref\star.dll
+C:\Users\zonaa\Downloads\star\bin\Debug\net5.0\star.pdb
+C:\Users\zonaa\Downloads\star\obj\Debug\net5.0\star.csprojAssemblyReference.cache
+C:\Users\zonaa\Downloads\star\obj\Debug\net5.0\star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zonaa\Downloads\star\obj\Debug\net5.0\star.AssemblyInfoInputs.cache
+C:\Users\zonaa\Downloads\star\obj\Debug\net5.0\star.AssemblyInfo.cs
+C:\Users\zonaa\Downloads\star\obj\Debug\net5.0\star.csproj.CoreCompileInputs.cache
+C:\Users\zonaa\Downloads\star\obj\Debug\net5.0\star.dll
+C:\Users\zonaa\Downloads\star\obj\Debug\net5.0\ref\star.dll
+C:\Users\zonaa\Downloads\star\obj\Debug\net5.0\star.pdb
+C:\Users\zonaa\Downloads\star\obj\Debug\net5.0\star.genruntimeconfig.cache
